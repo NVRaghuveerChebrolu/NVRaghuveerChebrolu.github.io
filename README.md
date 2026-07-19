@@ -1,4 +1,4 @@
-# Naga Venkata Raghuveer Chebrolu — Portfolio
+# Naga Venkata Raghuveer Chebrolu - Portfolio
 
 Personal portfolio website of **Naga Venkata Raghuveer Chebrolu**, a QA Lead & Test Automation Architect with 12+ years of experience.
 
