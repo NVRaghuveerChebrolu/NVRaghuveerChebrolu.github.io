@@ -18,7 +18,7 @@ ISTQB **CT-AI** and **CTFL** certified QA Automation Lead based in Hamburg, Germ
 
 ## Tech
 
-Single self-contained `index.html` no build step, no dependencies. Vanilla HTML, CSS, and JavaScript with a light/dark theme toggle. Hosted on GitHub Pages.
+Single self-contained `index.html` - no build step, no dependencies. Vanilla HTML, CSS, and JavaScript with a light/dark theme toggle. Hosted on GitHub Pages.
 
 ## Contact
 
